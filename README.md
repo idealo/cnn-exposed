@@ -25,11 +25,11 @@ These patterns usually get increasing complex as one progresses towards the outp
 
 ## Getting Started
 
-In this repository, several interpretation techniques have been demonstrated with Google Colab notebooks. There is no need to clone this repository. Google Colab notebooks for attribution and visualisation methods can be launched in the browser by simply clicking the "Open in Colab" icon in the respective sections below.
+In this repository, several interpretation techniques have been demonstrated with Google Colab notebooks. There is no need to clone this repository. Google Colab notebooks for attribution and visualisation methods can be launched in the browser by simply clicking the 'Open in Colab' icon in the respective sections below.
 
 
 ### Attribution techniques:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanujjain/testrepo/blob/master/notebooks/Attribution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idealo/cnn-exposed/blob/master/notebooks/Attribution.ipynb)
 
 Some of the attribution methods we have tried to explore are:
 - [Saliency Maps](https://arxiv.org/pdf/1312.6034v2.pdf)
@@ -37,7 +37,7 @@ Some of the attribution methods we have tried to explore are:
 - [Layerwise Relevance Propagation (LRP)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
 
 ### Visualization techniques
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tanujjain/testrepo/blob/master/notebooks/Visualization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/idealo/cnn-exposed/blob/master/notebooks/Visualization.ipynb)
 
 Some of the visualization methods we have tried to explore are:
 - [Filter visualizations](https://distill.pub/2017/feature-visualization/)
