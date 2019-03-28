@@ -25,7 +25,7 @@ These patterns usually get increasing complex as one progresses towards the outp
 
 ## Getting Started
 
-In this repository, several interpretation techniques have been demonstrated with Google Colab notebooks. There is no need to clone this repository. Google Colab notebooks for attribution and visualisation methods can be launched in the browser by simply clicking the 'Open in Colab' icon in the respective sections below.
+In this repository, several interpretation techniques have been demonstrated with Google Colab notebooks. There is no need to clone this repository. Google Colab notebooks for attribution and visualisation methods can be launched in the browser by simply clicking the 'Open in Colab' icon in the respective sections below. Additionally, the 'Hardware accelarator' for Colab notebooks should be set to 'GPU' for a quicker run through the code.
 
 
 ### Attribution techniques:
