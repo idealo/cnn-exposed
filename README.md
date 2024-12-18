@@ -1,6 +1,7 @@
 # Interpreting Convolutional Neural Network (CNN) Results
 
 This repo contains the code for our talk "Demystifying the neural network black box". Slides are available on [Speaker Deck](https://speakerdeck.com/tanujjain/demystifying-the-neural-network-black-box).
+This code has not been maintained for over a year. It's archived on 2024-12-18. 
 
 ## Motivation
 
